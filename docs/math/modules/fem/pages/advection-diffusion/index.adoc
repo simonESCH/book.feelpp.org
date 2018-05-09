@@ -364,7 +364,7 @@ NOTE: Cette section est en cours d'écriture
 
 [env.theorem#adr-thr1]
 ****
-Soient stem:[f\in L^2(\Omega),  stem:[\mathbf{\alpha} \in [L^{\infty}(\Omega)^{d\times d}], stem:[\mathbf{\beta} \in [L^{\infty}(\Omega)^d], stem:[\nabla \cdot \mathbf{\beta} \in L^{\infty}(\Omega)] et stem:[\mu \in L^\infty(\Omega)].
+Soient stem:[f\in L^2(\Omega),\,  \mathbf{\alpha} \in [L^{\infty}(\Omega)]^{d\times d},\, \mathbf{\beta} \in [L^{\infty}(\Omega)]^d,\, \nabla \cdot \mathbf{\beta} \in L^{\infty}(\Omega)] et stem:[\mu \in L^\infty(\Omega)].
 
 On note stem:[p = \essinf_{x \in \Omega} (\mu -\frac{1}{2} \nabla \cdot \mathbf{\beta})] et stem:[c_\Omega] est la constante de l’inégalité de Poincaré <<B23>>.
 
